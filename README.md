@@ -107,9 +107,3 @@ E.g.
     / \
    2   1   
 Evaluates to 5
-
-
-List of questions asked by Devices design interviewers:
-•	Design a system like BookMyShow / Instagram / URL Shortener / parking lot / Cricinfo / Order Management System / distributed job scheduler / Bus scheduling system / ticket booking system / system to handle flash sales / Netflix / Access Management System / multi player game / Cab OR bicycle booking / railways Cloak Room / management software for gaming parlor / Payment mechanism / Read Receipts mechanism in Whatsapp / price automation system / voice assistant used in mobile / event booking system / Generation of unique URL / leaderboard / MP3 player / file conversion tool / LRU Cache / torrent Client – For down loading files from Internet
-•	Design a system which is capable of sending a notification to the customer, whenever the price drops on real-time / Design a notification system which send email and SMS to buyer and seller for an e-commerce marketplace such as Amazon
-•	Design Problem- optimize the red and green lights in a traffic signal
